@@ -8,6 +8,7 @@
   "license": "BSD",
   "dependencies": {
     "imghash": "^0.0.9",
+    "node-id3": "^0.2.6",
     "shelljs": "^0.8.5"
   }
 }
